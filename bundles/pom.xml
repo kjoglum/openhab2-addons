@@ -109,6 +109,7 @@
     <module>org.openhab.binding.fmiweather</module>
     <module>org.openhab.binding.folding</module>
     <module>org.openhab.binding.foobot</module>
+    <module>org.openhab.binding.freeathome</module>
     <module>org.openhab.binding.freebox</module>
     <module>org.openhab.binding.fronius</module>
     <module>org.openhab.binding.fsinternetradio</module>
